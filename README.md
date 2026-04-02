@@ -1,49 +1,26 @@
+# Shadowsocks
 
+Shadowsocks is a secure tunnel proxy, designed to protect your internet traffic and circumvent internet censorship. It is widely used to improve privacy and security online, especially in restricted environments.
 
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-H1D1JP2D4M"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-H1D1JP2D4M');
-    </script>
+## Features
+- Encryption: Ensures your traffic is secure and private.
+- Cross-platform: Available on multiple operating systems including Windows, macOS, Linux, Android, and iOS.
+- Easy to use: Simple setup and configuration processes.
 
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ALEX ÁLVAREZ R. | OFICIAL 2026</title>
+## Installation
+### Windows
+1. Download the latest release from the GitHub repository.
+2. Run the installer and follow the instructions.
 
-    <style>
-        :root { --dorado: #D4AF37; --negro: #050505; --gris: #1a1a1a; }
-        body { background-color: var(--negro); color: #fff; font-family: 'Segoe UI', sans-serif; margin: 0; text-align: center; }
-        header { padding: 80px 20px; border-bottom: 2px solid var(--dorado); background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url('https://images.unsplash.com/photo-1514525253361-bee8718a7439?q=80&w=1200'); background-size: cover; }
-        h1 { font-size: 2.5rem; color: var(--dorado); letter-spacing: 3px; margin: 0; }
-        .container { max-width: 500px; margin: 40px auto; padding: 0 20px; }
-        .btn { display: block; background: var(--gris); color: #fff; text-decoration: none; margin: 12px 0; padding: 18px; border-radius: 10px; border: 1px solid #333; font-weight: bold; transition: 0.3s; text-transform: uppercase; }
-        .btn:hover { background: var(--dorado); color: #000; transform: scale(1.03); }
-        footer { margin-top: 50px; font-size: 0.8rem; color: #555; padding-bottom: 30px; }
-    </style>
-</head>
-<body>
+### macOS
+1. Use Homebrew to install: `brew install shadowsocks`.
 
-    <header>
-        <h1>ALEX ÁLVAREZ R.</h1>
-        <div style="color:#aaa; margin-top:10px;">PROTOCOLO 2026 | MÚSICA BÉLICA</div>
-    </header>
+### Linux
+1. Refer to the official documentation for installation instructions based on your distribution.
 
-    <div class="container">
-        <a href="https://youtube.com" class="btn">▶️ YouTube Oficial</a>
-        <a href="http://googleusercontent.com/spotify.com/3" class="btn">🎧 Spotify Artist</a>
-        <a href="https://instagram.com" class="btn">📸 Instagram</a>
-        <a href="https://tiktok.com" class="btn">🎵 TikTok</a>
-        <a href="https://facebook.com" class="btn">📘 Facebook</a>
-        <a href="https://paypal.me" class="btn" style="border-color: #0070ba;">💵 Apoyar Proyecto</a>
-    </div>
+## Usage
+1. Launch the Shadowsocks client.
+2. Enter your server details and connect.
 
-    <footer>© 2026 ALEX ÁLVAREZ R. | GLENDORA, CA</footer>
-
-</body>
-</html>
-       …
+## License
+Shadowsocks is licensed under the MIT License. Please see the LICENSE file for more information.
